@@ -1,7 +1,6 @@
 <h1>
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
   Hi, it's good to see you!
-  <!--<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>-->
 </h1>
 <p>Welcome, I’m Alexey beginner developer and student from 🇷🇺 Vladimir, Russia.</p>
 <br>
