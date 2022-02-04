@@ -1,8 +1,13 @@
 <h1>
-  Hi, it's good to see you!
+  Hi, glad to see you!
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 </h1>
-<p>Hi, I’m Alexey beginner developer and student from 🇷🇺 Vladimir, Russia.</p>
+<p>Welcome, I’m Alexey beginner developer and student from 🇷🇺 Vladimir, Russia.</p>
+<br>
+<p>
+  <img class="emoji" alt="mortar_board" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f393.png">
+  Learning: Java, .NET
+</p>
 
 <!---
 thewyolar/thewyolar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
