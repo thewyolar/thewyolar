@@ -1,5 +1,4 @@
 <h1>Hi, it's good to see you!</h1>
-<br>
 <p>Hi, I’m Alexey beginner developer and student from Vladimir, Russia.</p>
 
 <!---
