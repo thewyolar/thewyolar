@@ -1,4 +1,7 @@
-<h1>Hi, it's good to see you!</h1>
+<h1>
+  Hi, it's good to see you!
+  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
+</h1>
 <p>Hi, I’m Alexey beginner developer and student from Vladimir, Russia.</p>
 
 <!---
