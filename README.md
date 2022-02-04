@@ -10,7 +10,7 @@
   <p>Welcome, I’m Alexey beginner developer and student from 🇷🇺 Vladimir, Russia.</p>
   <p>
     <img height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f393.png"/>
-    Learning: Java, .NET
+    Learning: Python, Java, .NET
   </p>
 </div>
 
