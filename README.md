@@ -1,4 +1,4 @@
-👋 Hi, I’m Alexey beginner developer and student from ![image](https://user-images.githubusercontent.com/74107068/152526216-be17c1d9-cdbf-4224-84a7-bee780dc86ab.png)
+👋 Hi, I’m Alexey beginner developer and student from ![image](https://user-images.githubusercontent.com/74107068/152526278-29c76246-8e1b-42fd-804c-dd0709c811d5.png)
 Vladimir, Russia.
 
 <!---
