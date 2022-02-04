@@ -9,7 +9,7 @@
 <div>
   <p>Welcome, I’m Alexey beginner developer and student from 🇷🇺 Vladimir, Russia.</p>
   <p>
-    <img class="emoji" alt="mortar_board" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f393.png"/>
+    <img height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f393.png"/>
     Learning: Java, .NET
   </p>
 </div>
