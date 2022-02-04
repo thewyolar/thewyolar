@@ -1,4 +1,4 @@
-👋 Hi, I’m Alexey beginner developer and student from Vladimir, Russia/
+👋 Hi, I’m Alexey beginner developer and student from Vladimir, Russia.
 
 <!---
 thewyolar/thewyolar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
