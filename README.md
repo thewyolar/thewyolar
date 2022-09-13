@@ -8,7 +8,7 @@
 
 <div>
   <p>Welcome, I’m Alexey, beginner developer and student from 
-    <img src="https://cdn-icons-png.flaticon.com/128/168/168112.png" width="20"> Vladimir, Russia.</p>
+    <img src="https://cdn-icons-png.flaticon.com/128/168/168112.png" width="20"> Orekhovo-Zuyevo, Russia.</p>
   <p>
     <img height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f393.png"/>
     Learning: Python, Java, .NET
