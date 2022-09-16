@@ -4,6 +4,8 @@
 #### Welcome, I’m Alexey, beginner developer and student from <img src="https://cdn-icons-png.flaticon.com/128/168/168112.png" width="20"> Orekhovo-Zuyevo, Russia.
 #### <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f393.png" height="20" width="20"/> Learning: Python, Java, .NET
 
+![](https://komarev.com/ghpvc/?username=thewyolar)
+
 ***
  
 [![trophy](https://github-profile-trophy.vercel.app/?username=thewyolar&theme=nord&row=1)](https://github.com/ryo-ma/github-profile-trophy)
