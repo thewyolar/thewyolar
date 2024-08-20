@@ -10,7 +10,7 @@ Technologies which I use:
 - TypeScript (ReactJs, NextJs)
 - HTML
 - Docker
-- Git, SVN
+- Git
 
 ### 📫 How to reach me
 
