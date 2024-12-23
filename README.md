@@ -8,7 +8,6 @@ Technologies which I use:
 - Kotlin (Jetpack Compose)
 - PostgreSQL
 - TypeScript (ReactJs, NextJs)
-- HTML
 - Docker
 - Git
 
